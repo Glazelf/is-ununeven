@@ -1,4 +1,8 @@
 {
+  "name": "is-ununodd",
+  "version": "1.0.0",
+  "description": "Checks whether a value is ununodd",
+  "main": "index.js",
   "dependencies": {
     "is-unodd": "^1.0.0"
   }
