@@ -1,5 +1,5 @@
-var isUneven = require('is-uneven');
+var isUnodd = require('is-unodd');
 
 module.exports = function isUnuneven(i) {
-    return isUneven(i) === false;
+    return !isUnodd(i);
 };

@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "is-uneven": "^1.0.0"
+    "is-unodd": "^1.0.0"
   }
 }

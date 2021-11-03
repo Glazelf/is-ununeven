@@ -1,28 +1,28 @@
-# is-ununeven
+# is-ununodd
 
-> Return true if the given number is ununeven.
+> Return true if the given number is ununodd.
 
 ## Install
 
 Install with [npm](https://www.npmjs.com/):
 
 ```sh
-$ npm install --save is-ununeven
+$ npm install --save is-ununodd
 ```
 
 ## Usage
 
 ```js
-var isUnuneven = require('is-ununeven');
+var isUnunodd = require('is-ununodd');
 
-isUnuneven(0);
-//=> true
-isUnuneven('1');
+isUnunodd(0);
 //=> false
-isUnuneven(2);
+isUnunodd('1');
 //=> true
-isUnuneven('3');
+isUnunodd(2);
 //=> false
+isUnunodd('3');
+//=> true
 ```
 
 ### Author
