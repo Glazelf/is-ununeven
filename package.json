@@ -1,9 +1,23 @@
 {
-  "name": "is-ununodd",
+  "name": "@glazelf/is-ununodd",
   "version": "1.0.0",
   "description": "Checks whether a value is ununodd",
   "main": "index.js",
   "dependencies": {
     "is-unodd": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glazelf/is-ununodd.git"
+  },
+  "author": "Glazelf",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Glazelf/is-ununodd/issues"
+  },
+  "homepage": "https://github.com/Glazelf/is-ununodd#readme"
 }
